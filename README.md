@@ -12,4 +12,4 @@ POSデータを活用し、
 ## 使用予定
 - Python
 - Pandas
-- Power BI
+
