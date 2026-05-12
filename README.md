@@ -3,13 +3,11 @@
 POSデータを活用し、
 飲食店の利益改善ポイントを分析するプロジェクト。
 
-## 分析テーマ
-- ABC分析
-- 粗利分析
-- 時間帯分析
-- 廃棄分析
-
-## 使用予定
-- Python
-- Pandas
-
+飲食店DX
+POSデータ分析
+利益改善
+Python
+AI活用
+Google Colab
+Matplotlib
+GitHub
